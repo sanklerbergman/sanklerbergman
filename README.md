@@ -23,7 +23,7 @@ Começo pelas reclamações de quem usa. Antes de escrever código, levanto o qu
 
 ### Tecnologias
 
-TypeScript · Angular · React Native/Expo · Node.js · PostgreSQL · Java 25 · Spring Boot · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud
+TypeScript · Angular · React Native/Expo · Node.js · PostgreSQL · Java 25 · Spring Boot · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud · AWS
 
 ### Contato
 
@@ -54,7 +54,7 @@ I start from the complaints of the people who will use the product. Before writi
 
 ### Tech stack
 
-TypeScript · Angular · React Native/Expo · Node.js · PostgreSQL · Java 25 · Spring Boot · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud
+TypeScript · Angular · React Native/Expo · Node.js · PostgreSQL · Java 25 · Spring Boot · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud · AWS
 
 ### Contact
 
