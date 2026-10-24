@@ -10,8 +10,8 @@ Começo pelas reclamações de quem usa. Antes de escrever código, levanto o qu
 
 | Projeto | O que é | Situação |
 |---|---|---|
-| [**Logística Local & Rotas**](https://github.com/sanklerbergman/logistica-local-rotas-case) | Entregas de última milha: painel da central, app do motorista e rastreio do cliente com PIN, comprovante com foto e GPS, roteirização e Pix | Piloto em produção (v1.5.0). Estudo de caso público |
-| [**Scanner Doc**](https://sanklerbergman.github.io/doc-scanner-pdf-engine/) | Foto de documento vira PDF 100% no navegador, sem upload e sem cadastro | No ar, [código aberto](https://github.com/sanklerbergman/doc-scanner-pdf-engine) |
+| [**Tropeiro**](https://sankler.com.br/#tropeiro) | Plataforma para a operação de pequenas e médias empresas, vendida por módulos: entregas de última milha, ordens de serviço, PDV e Peças usadas (para desmanches), com um cadastro só de clientes e de produtos e o mesmo app de celular para o motorista, o técnico e o vendedor. Começou pelas entregas em Mato Grosso | Em produção desde 15/10/2026 (v1.12.1). Código privado. [Estudo de caso público](https://github.com/sanklerbergman/logistica-local-rotas-case) do Logística Local & Rotas, o piloto que deu origem ao Tropeiro |
+| [**Scanner Doc**](https://scanner.sankler.com.br/) | Foto, Word ou PDF vira PDF 100% no navegador, sem upload e sem cadastro, com OCR (texto pesquisável), tarja que apaga o dado de verdade, assinatura com certificado digital A1 da ICP-Brasil no padrão PAdES, PDF/A e PDF com senha | No ar (v3.7.0), [código aberto](https://github.com/sanklerbergman/doc-scanner-pdf-engine) |
 | **EmpilhaBurguer** | Jogo casual para Android em Kotlin e Jetpack Compose | Em desenvolvimento |
 
 ### Como eu trabalho
@@ -23,7 +23,7 @@ Começo pelas reclamações de quem usa. Antes de escrever código, levanto o qu
 
 ### Tecnologias
 
-TypeScript · React · Next.js · React Native/Expo · Node.js · Express · Prisma · PostgreSQL · SQLite · Socket.io · Java 21 · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud
+TypeScript · Angular · React · Next.js · React Native/Expo · Node.js · Express · Prisma · PostgreSQL · SQLite · Socket.io · Java 25 · Spring Boot · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud
 
 ### Contato
 
@@ -41,8 +41,8 @@ I start from the complaints of the people who will use the product. Before writi
 
 | Project | What it is | Status |
 |---|---|---|
-| [**Logística Local & Rotas**](https://github.com/sanklerbergman/logistica-local-rotas-case/blob/main/README.en.md) | Last-mile delivery: dispatch dashboard, driver app and customer tracking with PIN, proof of delivery with photo and GPS, route planning and Pix | Pilot in production (v1.5.0). Public case study |
-| [**Scanner Doc**](https://sanklerbergman.github.io/doc-scanner-pdf-engine/) | Turns a photo of a document into a PDF entirely in the browser, with no upload and no sign-up | Live, [open source](https://github.com/sanklerbergman/doc-scanner-pdf-engine) |
+| [**Tropeiro**](https://sankler.com.br/en/#tropeiro) | A platform for running small and mid-sized businesses, sold as modules: last-mile delivery, work orders, point of sale and Used Parts (for auto salvage yards), with a single record of customers and products and the same phone app for the driver, the technician and the salesperson. It started with deliveries in Mato Grosso, Brazil | In production since October 15, 2026 (v1.12.1). Private code. [Public case study](https://github.com/sanklerbergman/logistica-local-rotas-case/blob/main/README.en.md) of Logística Local & Rotas, the pilot that Tropeiro grew out of |
+| [**Scanner Doc**](https://scanner.sankler.com.br/) | Turns a photo, a Word file or a PDF into a PDF entirely in the browser, with no upload and no sign-up, plus OCR (searchable text), redaction that truly removes the data, signing with an A1 digital certificate from ICP-Brasil (Brazil's public key infrastructure) in the PAdES standard, PDF/A and password-protected PDFs | Live (v3.7.0), [open source](https://github.com/sanklerbergman/doc-scanner-pdf-engine) |
 | **EmpilhaBurguer** | Casual Android game in Kotlin and Jetpack Compose | In development |
 
 ### How I work
@@ -54,7 +54,7 @@ I start from the complaints of the people who will use the product. Before writi
 
 ### Tech stack
 
-TypeScript · React · Next.js · React Native/Expo · Node.js · Express · Prisma · PostgreSQL · SQLite · Socket.io · Java 21 · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud
+TypeScript · Angular · React · Next.js · React Native/Expo · Node.js · Express · Prisma · PostgreSQL · SQLite · Socket.io · Java 25 · Spring Boot · Kotlin/Jetpack Compose · Python · Playwright · Docker · Linux · Oracle Cloud
 
 ### Contact
 
